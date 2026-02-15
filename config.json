@@ -1,0 +1,62 @@
+{
+  "profile": {
+    "name": "whitefin",
+    "username": "@whitefinya",
+    "description": "художник, стример, тиктокер, порно-актер... ну и на этом все? мур.",
+    "profilePic": "assets/profile.jpg"
+  },
+  "links": [
+    {
+      "icon": "fab fa-telegram",
+      "text": "Telegram",
+      "url": "https://t.me/pay4art"
+    },
+    {
+      "icon": "fab fa-twitch",
+      "text": "Twitch",
+      "url": "https://twitch.tv/whitefinya"
+    },
+    {
+      "icon": "fab fa-youtube",
+      "text": "YouTube",
+      "url": "https://youtube.com/pay2art"
+    },
+    {
+      "icon": "fab fa-tiktok",
+      "text": "TikTok",
+      "url": "https://tiktok.com/mintcoconut"
+    },
+    {
+      "icon": "fab fa-discord",
+      "text": "Discord",
+      "url": "https://discord.gg/229c88w8hE"
+    },
+    {
+      "icon": "fa-brands fa-vk",
+      "text": "VK",
+      "url": "https://vk.ru/pray2art"
+    }
+  ],
+  "backgroundImages": [
+    "assets/imgs/img1.webp",
+    "assets/imgs/img2.webp",
+    "assets/imgs/img3.webp",
+    "assets/imgs/img4.webp",
+    "assets/imgs/img5.webp",
+    "assets/imgs/img6.webp",
+    "assets/imgs/img7.webp",
+    "assets/imgs/img8.webp",
+    "assets/imgs/img9.webp",
+    "assets/imgs/img11.webp",
+    "assets/imgs/img12.webp",
+    "assets/imgs/img13.webp",
+    "assets/imgs/img14.webp",
+    "assets/imgs/img15.webp",
+    "assets/imgs/img16.webp",
+    "assets/imgs/img17.webp",
+    "assets/imgs/img18.webp",
+    "assets/imgs/img19.webp",
+    "assets/imgs/img20.webp",
+    "assets/imgs/img21.webp"
+  ]
+}
