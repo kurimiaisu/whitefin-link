@@ -35,6 +35,11 @@
       "icon": "fa-brands fa-vk",
       "text": "VK",
       "url": "https://vk.ru/pray2art"
+    },
+    {
+      "icon": "fa-brands fa-vk",
+      "text": "Персонажи",
+      "url": "https://vk.ru/pray2art"
     }
   ],
   "backgroundImages": [
